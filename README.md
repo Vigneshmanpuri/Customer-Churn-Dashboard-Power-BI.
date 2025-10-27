@@ -3,15 +3,13 @@ Customer Churn Analysis Dashboard built using Power BI. This report helps to und
 
 # 📊 Customer Churn Analysis – Power BI Dashboard
 
-![Dashboard Preview](DashboardPreview.png)
-
 ### 🔹 Dashboard Pages Preview
 | Page | Preview |
 |------|----------|
-| *Page 1:* Overview | ![Page 1](Page1.png) |
-| *Page 2:* Service Analysis | ![Page 2](Page2.png) |
-| *Page 3:* Contract & Billing | ![Page 3](Page3.png) |
-| *Page 4:* Churn Prediction | ![Page 4](Page4.png) |
+| *Page 1:* Overview | ![Page 1](Page-1.png) |
+| *Page 2:* Service Analysis | ![Page 2](Page-2.png) |
+| *Page 3:* Contract & Billing | ![Page 3](Page-3.png) |
+| *Page 4:* Churn Prediction | ![Page 4](Page-4.png) |
 
 ---
 
@@ -84,7 +82,7 @@ you can download the .pbix file from this repository and view it in *Power BI De
 B.Tech in Computer Science (AI & Data Science)  
 Aspiring Data Analyst | Skilled in Power BI, Python, SQL, and Data Visualization   
 💼 [LinkedIn Profile](https://www.linkedin.com/in/vignesh-manpuri-41b62530b/)
-📂 [GitHub Profile](https://github.com/ArutlaRakshith)
+📂 [GitHub Profile](https://github.com/Vigneshmanpuri)
 
 ---
 
