@@ -6,10 +6,10 @@ Customer Churn Analysis Dashboard built using Power BI. This report helps to und
 ### 🔹 Dashboard Pages Preview
 | Page | Preview |
 |------|----------|
-| *Page 1:* Overview | ![Page 1](Page-1.png) |
-| *Page 2:* Service Analysis | ![Page 2](Page-2.png) |
-| *Page 3:* Contract & Billing | ![Page 3](Page-3.png) |
-| *Page 4:* Churn Prediction | ![Page 4](Page-4.png) |
+| *Page 1:* Overview | ![Page 1](Page_1.png) |
+| *Page 2:* Service Analysis | ![Page 2](Page_2.png) |
+| *Page 3:* Contract & Billing | ![Page 3](Page_3.png) |
+| *Page 4:* Churn Prediction | ![Page 4](Page_4.png) |
 
 ---
 
